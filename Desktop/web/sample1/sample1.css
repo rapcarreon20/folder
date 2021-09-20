@@ -1,0 +1,33 @@
+h1 {
+    color:red;
+    text-align: center;
+}
+
+#beatch {
+    color: royalblue;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.class {
+    color:yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#clickHere {
+    width: 100px;
+    height: 50px;
+    background-color: red;
+}
+
+#clickHere:hover {
+    background-color: green;
+}
+
+body {
+    min-height: 100vh;
+    max-width: 400px;
+    background-color: papayawhip; 
+}
